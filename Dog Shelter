@@ -12,7 +12,7 @@ public class DogShelter{
     String menuMessage = "MAIN MENU\n 0 - Exit, 1 - Report, 2 - Assing/Modify dogs, 3 - (Ex)Change Dog, 4 - Close shelter, 5 - List";
 
     System.out.print("UTSA - Spring2022 - CS1083 - Section 005 ");
-    System.out.println("- Project 2 - TexasShelter - written by Diego Aya;a");
+    System.out.println("- Project 2 - TexasShelter - written by Diego Ayala");
 
     gShelterSize = getValue(shelterMessage, gMAX_DOGS);
 
